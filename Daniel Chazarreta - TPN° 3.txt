@@ -1,0 +1,7 @@
+﻿4- A - SELECT * FROM Autores WHERE Nacionalidad LIKE (‘Argentino’);
+
+
+B- SELECT * FROM Autores WHERE `Edad de Publicación` BETWEEN 1960 AND 1980;
+
+
+C- SELECT AVG (`Edad de Publicación`) FROM Autores;
